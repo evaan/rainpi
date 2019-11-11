@@ -1,0 +1,9 @@
+[Unit]
+Description=A portable way to run checkra1n
+
+[Service]
+Type=simple
+ExecStart=/usr/bin/python /opt/cumbox/cumbox.py
+ 
+[Install]
+WantedBy=multi-user.target
