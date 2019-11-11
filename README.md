@@ -7,3 +7,7 @@ hook it up with a button
 profit
 
 fuck you im not making the instructions clearer
+
+requirements:
+- git
+- python
