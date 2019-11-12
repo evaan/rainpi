@@ -20,7 +20,9 @@ case $response in
     0)  sudo mv udev/99-cumbox.rules /etc/udev/rules.d
         sudo udevadm control --reload;;
 
-    1)  sudo apt install python python-rpi.gpio
+    1)  sudo apt install python
+        cd /opt/cumbox/ipwndfu
+        python pip install -r requirements
         sudo mv python/cumbox.py /opt/cumbox
         sudo mv python/cumbox.service /lib/systemd/system
         echo "================================================="
