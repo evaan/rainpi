@@ -13,5 +13,5 @@ To run it with logs, run ``python /opt/cumbox/cumbox.py``
 Profit.
 
 ## Plans in the future
- - Make cumbox continue when the button is pressed.
+ - ~~Make cumbox continue when the button is pressed.~~
  - Add checkra1n.
