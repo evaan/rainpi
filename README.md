@@ -1,4 +1,5 @@
 # cumbox
+## THIS DOES NOT HAVE CHECKRA1N, IT JUST USES IPWNDFU FOR THE TIME BEING!!
 ## What is cumbox?
 Cumbox is a little tool I made that can turn your Raspberry Pi into a dongle to run checkra1n (or whatever you want) at the click of a button.
 ## What is a cumbox?
