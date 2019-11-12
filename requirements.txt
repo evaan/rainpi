@@ -1,0 +1,1 @@
+python-rpi.gpio>=0.7.0
