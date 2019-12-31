@@ -5,7 +5,7 @@
 import RPi.GPIO as GPIO
 import os
 
-gpio_pin_number=7
+gpio_pin_number=07
 
 GPIO.setmode(GPIO.BCM)
 

@@ -6,4 +6,4 @@ Type=simple
 ExecStart=/usr/bin/python /opt/cumbox/cumbox.py
  
 [Install]
-WantedBy=multi-user.target
+WantedBy=multi-user.targets
