@@ -10,7 +10,7 @@ cd rainpi
 ```
 Run the installer (arm):
 ```
-./install-arm.sh"
+./install-arm.sh
 ```
 Plug in your device and enter dfu.  
 Profit.
