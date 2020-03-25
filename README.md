@@ -2,7 +2,7 @@
 ## Installation
 Clone the repository:
 ```
-git clone https://github.com/7OU/cumbox.git
+git clone https://github.com/MrJohnDev/rainpi.git
 ```
 Go into the directory:
 ```
