@@ -1,16 +1,16 @@
-# rainpi
+# RainPi
 ## Installation
 Clone the repository:
 ```
-git clone https://github.com/7OU/cumbox.git
+git clone https://github.com/7OU/rainpi.git
 ```
 Go into the directory:
 ```
 cd rainpi
 ```
-Run the installer (arm):
+Run The Installer (arm):
 ```
 ./install-arm.sh
 ```
-Plug in your device and enter dfu.  
+Just Plug In Your Device and Enter DFU.
 Profit.
