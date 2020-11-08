@@ -1,5 +1,3 @@
-lousyrepo is an ip logger dont use it
-
 # RainPi©™
 ## Installation
 Clone the repository:
