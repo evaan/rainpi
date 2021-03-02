@@ -2,7 +2,7 @@
 ## Installation
 Clone the repository:
 ```
-git clone https://github.com/evaaan/rainpi.git
+git clone https://github.com/evaaaan/rainpi.git
 ```
 Go into the directory:
 ```
