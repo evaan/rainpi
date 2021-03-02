@@ -2,13 +2,17 @@
 ## Installation
 Clone the repository:
 ```
-git clone https://github.com/7OU/rainpi.git
+git clone https://github.com/evaaan/rainpi.git
 ```
 Go into the directory:
 ```
 cd rainpi
 ```
-Run The Installer (arm):
+If using ARM, run the ARM installer:
+```
+./install-arm.sh
+```
+If using ARM64, run the ARM64 installer:
 ```
 ./install-arm.sh
 ```
