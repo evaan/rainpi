@@ -16,5 +16,9 @@ If using ARM64, run the ARM64 installer:
 ```
 ./install-arm.sh
 ```
+Run The Installer (Supports Raspbian and Ubuntu arm64):
+```
+./install-arm64.sh
+```
 Just Plug In Your Device and Enter DFU.
 Profit.
