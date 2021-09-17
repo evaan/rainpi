@@ -2,7 +2,7 @@
 ## Installation
 Clone the repository:
 ```
-git clone https://github.com/GrimmRexx/rainpi.git
+git clone https://github.com/GrimmRexx/rainpigr.git
 ```
 Go into the directory:
 ```
